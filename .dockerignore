@@ -1,0 +1,12 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebooks in the app directory
+app/*model-training.ipynb
+
+# Ignore CSV files in the app directory
+app/*diabetes-dataset.csv
+
+# Ignore JSON files in the app directory
+app/*feature_names.json
